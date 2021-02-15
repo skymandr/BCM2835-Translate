@@ -1,3 +1,8 @@
+# Translations into Swedish
+
+Original source from https://www.riscosopen.org/content/downloads/raspberry-pi
+
+
 RISC OS Open Release Archive
 ============================
 
