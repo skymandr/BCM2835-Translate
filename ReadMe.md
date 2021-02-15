@@ -1,3 +1,10 @@
+# Original messages in English (UK)
+
+Original source from https://www.riscosopen.org/content/downloads/raspberry-pi
+
+This branch is not meant to be updated unless upstream is updated.
+
+
 RISC OS Open Release Archive
 ============================
 
